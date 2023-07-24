@@ -3,7 +3,7 @@ library ensemble_file_manager;
 import 'package:ensemble/framework/action.dart';
 import 'package:ensemble/framework/bindings.dart';
 import 'package:ensemble/framework/data_context.dart';
-import 'package:ensemble/framework/placeholder/file_manager.dart';
+import 'package:ensemble/framework/stub/file_manager.dart';
 import 'package:ensemble/framework/scope.dart';
 import 'package:ensemble/screen_controller.dart';
 import 'package:ensemble_file_manager/file_extension.dart';
