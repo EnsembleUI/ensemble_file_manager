@@ -19,7 +19,7 @@ dependencies:
     git:
       url: https://github.com/EnsembleUI/ensemble_ts_interpreter.git
       ref: master
-  file_picker: ^5.3.2
+  file_picker: ^5.2.10
 
 dev_dependencies:
   flutter_test:
