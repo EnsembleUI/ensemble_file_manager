@@ -14,14 +14,11 @@ dependencies:
   ensemble:
     git:
       url: https://github.com/EnsembleUI/ensemble.git
-      ref: main
-      path: modules/ensemble
-
+      ref: legacy
   ensemble_ts_interpreter:
     git:
-      url: https://github.com/EnsembleUI/ensemble.git
-      ref: main
-      path: modules/ensemble_ts_interpreter
+      url: https://github.com/EnsembleUI/ensemble_ts_interpreter.git
+      ref: master
   file_picker: ^5.2.10
 
 dev_dependencies:
